@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-20T09:04:18 IST" name="Suite" finished-at="2026-05-20T09:04:34 IST" duration-ms="15543">
+    <groups>
+    </groups>
+    <test started-at="2026-05-20T09:04:18 IST" name="Test" finished-at="2026-05-20T09:04:34 IST" duration-ms="15543">
+      <class name="testCases.tc001_LoginPage">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.tc001_LoginPage@4b6690c0]" started-at="2026-05-20T09:04:18 IST" name="setup" finished-at="2026-05-20T09:04:25 IST" duration-ms="6486" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_login_page()[pri:0, instance:testCases.tc001_LoginPage@4b6690c0]" started-at="2026-05-20T09:04:25 IST" name="verify_login_page" finished-at="2026-05-20T09:04:29 IST" duration-ms="3735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_page -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.tc001_LoginPage@4b6690c0]" started-at="2026-05-20T09:04:29 IST" name="tearDown" finished-at="2026-05-20T09:04:34 IST" duration-ms="5240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.tc001_LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

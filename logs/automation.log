@@ -1,0 +1,15 @@
+2026-05-20 09:01:45 INFO  Utils:112 - [TestNG] Running:
+  C:\hybrid_automation_project\OpenCartV121\src\test\java\testCases\master.xml
+
+2026-05-20 09:01:52 INFO  tc001_LoginPage:16 - -----Account login Started-----
+2026-05-20 09:01:53 INFO  tc001_LoginPage:24 - Clicked on MyAccount Link
+2026-05-20 09:01:53 INFO  tc001_LoginPage:27 - Clicked on Log in  Link
+2026-05-20 09:04:18 INFO  Utils:112 - [TestNG] Running:
+  C:\hybrid_automation_project\OpenCartV121\src\test\java\testCases\master.xml
+
+2026-05-20 09:04:25 INFO  tc001_LoginPage:16 - -----Account login Started-----
+2026-05-20 09:04:26 INFO  tc001_LoginPage:24 - Clicked on MyAccount Link
+2026-05-20 09:04:26 INFO  tc001_LoginPage:27 - Clicked on Log in  Link
+2026-05-20 09:04:26 INFO  tc001_LoginPage:34 - Login attempted with email: testuser2004@gmail.com
+2026-05-20 09:04:27 INFO  tc001_LoginPage:38 - Password used: test@123
+2026-05-20 09:04:29 INFO  tc001_LoginPage:53 - ----Login Page Finished----
