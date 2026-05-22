@@ -8,7 +8,7 @@
     <classes>
     
       
-      <class name="testCases.tc001_LoginPage"/>
+      <class name="testCases.TC003_LoginDDT"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

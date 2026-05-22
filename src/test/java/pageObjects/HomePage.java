@@ -22,6 +22,8 @@ public class HomePage extends BasePage{
 	@FindBy(xpath="//*[@id=\"top-links\"]/ul/li[2]/ul/li[2]/a")
 	WebElement lnkLogin;
 	
+
+	
 	public void ClickAccount() {
 		lnkMyaccount.click();
 	}
@@ -34,4 +36,6 @@ public class HomePage extends BasePage{
 		lnkLogin.click();
 		
 	}
+	
+	
 }

@@ -8,9 +8,9 @@ import pageObjects.LoginPage;
 import pageObjects.MyAccountPage;
 import testBase.BaseClass;
 
-public class tc001_LoginPage extends BaseClass{
+public class TC002_LoginPage extends BaseClass{
 
-	@Test
+	@Test(groups={ "Sanity","Master"})
 	public void verify_login_page() {
 		
 		logger.info("-----Account login Started-----");

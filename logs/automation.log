@@ -1,15 +1,61 @@
-2026-05-20 09:01:45 INFO  Utils:112 - [TestNG] Running:
-  C:\hybrid_automation_project\OpenCartV121\src\test\java\testCases\master.xml
+2026-05-22 10:49:54 INFO  Utils:112 - [TestNG] Running:
+  C:\hybrid_automation_project\OpenCartV121\src\test\java\testCases\grouping.xml
 
-2026-05-20 09:01:52 INFO  tc001_LoginPage:16 - -----Account login Started-----
-2026-05-20 09:01:53 INFO  tc001_LoginPage:24 - Clicked on MyAccount Link
-2026-05-20 09:01:53 INFO  tc001_LoginPage:27 - Clicked on Log in  Link
-2026-05-20 09:04:18 INFO  Utils:112 - [TestNG] Running:
-  C:\hybrid_automation_project\OpenCartV121\src\test\java\testCases\master.xml
+2026-05-22 10:50:02 INFO  TC002_LoginPage:16 - -----Account login Started-----
+2026-05-22 10:50:03 INFO  TC002_LoginPage:24 - Clicked on MyAccount Link
+2026-05-22 10:50:03 INFO  TC002_LoginPage:27 - Clicked on Log in  Link
+2026-05-22 10:50:03 INFO  TC002_LoginPage:34 - Login attempted with email: testuser2004@gmail.com
+2026-05-22 10:50:04 INFO  TC002_LoginPage:38 - Password used: test@123
+2026-05-22 10:50:07 INFO  TC002_LoginPage:53 - ----Login Page Finished----
+2026-05-22 10:50:36 INFO  Utils:112 - [TestNG] Running:
+  C:\hybrid_automation_project\OpenCartV121\src\test\java\testCases\grouping.xml
 
-2026-05-20 09:04:25 INFO  tc001_LoginPage:16 - -----Account login Started-----
-2026-05-20 09:04:26 INFO  tc001_LoginPage:24 - Clicked on MyAccount Link
-2026-05-20 09:04:26 INFO  tc001_LoginPage:27 - Clicked on Log in  Link
-2026-05-20 09:04:26 INFO  tc001_LoginPage:34 - Login attempted with email: testuser2004@gmail.com
-2026-05-20 09:04:27 INFO  tc001_LoginPage:38 - Password used: test@123
-2026-05-20 09:04:29 INFO  tc001_LoginPage:53 - ----Login Page Finished----
+2026-05-22 10:50:43 INFO  TC001_AccountRegistrationPage:18 - -----Starting TC001_AccountRegistartionPage-----
+2026-05-22 10:50:43 INFO  TC001_AccountRegistrationPage:24 - Clicked on MyAccount Link
+2026-05-22 10:50:44 INFO  TC001_AccountRegistrationPage:27 - Clicked on Register Link
+2026-05-22 10:50:44 INFO  TC001_AccountRegistrationPage:32 - Providing Customer Details
+2026-05-22 10:50:47 INFO  TC001_AccountRegistrationPage:47 - Validating Excepted Message
+2026-05-22 10:50:47 INFO  TC001_AccountRegistrationPage:58 - -----Test Finished-----
+2026-05-22 10:51:02 INFO  TC002_LoginPage:16 - -----Account login Started-----
+2026-05-22 10:51:03 INFO  TC002_LoginPage:24 - Clicked on MyAccount Link
+2026-05-22 10:51:03 INFO  TC002_LoginPage:27 - Clicked on Log in  Link
+2026-05-22 10:51:03 INFO  TC002_LoginPage:34 - Login attempted with email: testuser2004@gmail.com
+2026-05-22 10:51:04 INFO  TC002_LoginPage:38 - Password used: test@123
+2026-05-22 10:51:05 INFO  TC002_LoginPage:53 - ----Login Page Finished----
+2026-05-22 16:56:31 INFO  Utils:112 - [TestNG] Running:
+  C:\hybrid_automation_project\OpenCartV121\src\test\java\testCases\grouping.xml
+
+2026-05-22 16:56:37 INFO  TC001_AccountRegistrationPage:18 - -----Starting TC001_AccountRegistartionPage-----
+2026-05-22 16:56:37 INFO  TC001_AccountRegistrationPage:24 - Clicked on MyAccount Link
+2026-05-22 16:56:37 INFO  TC001_AccountRegistrationPage:27 - Clicked on Register Link
+2026-05-22 16:56:37 INFO  TC001_AccountRegistrationPage:32 - Providing Customer Details
+2026-05-22 16:56:39 INFO  TC001_AccountRegistrationPage:47 - Validating Excepted Message
+2026-05-22 16:56:39 INFO  TC001_AccountRegistrationPage:58 - -----Test Finished-----
+2026-05-22 16:56:47 INFO  TC002_LoginPage:16 - -----Account login Started-----
+2026-05-22 16:56:47 INFO  TC002_LoginPage:24 - Clicked on MyAccount Link
+2026-05-22 16:56:48 INFO  TC002_LoginPage:27 - Clicked on Log in  Link
+2026-05-22 16:56:48 INFO  TC002_LoginPage:34 - Login attempted with email: testuser2004@gmail.com
+2026-05-22 16:56:48 INFO  TC002_LoginPage:38 - Password used: test@123
+2026-05-22 16:56:49 INFO  TC002_LoginPage:53 - ----Login Page Finished----
+2026-05-22 17:30:28 INFO  Utils:112 - [TestNG] Running:
+  C:\hybrid_automation_project\OpenCartV121\src\test\java\testCases\grouping.xml
+
+2026-05-22 17:30:33 INFO  TC002_LoginPage:16 - -----Account login Started-----
+2026-05-22 17:30:34 INFO  TC002_LoginPage:24 - Clicked on MyAccount Link
+2026-05-22 17:30:34 INFO  TC002_LoginPage:27 - Clicked on Log in  Link
+2026-05-22 17:30:34 INFO  TC002_LoginPage:34 - Login attempted with email: testuser2004@gmail.com
+2026-05-22 17:30:34 INFO  TC002_LoginPage:38 - Password used: test@1234
+2026-05-22 17:33:40 INFO  Utils:112 - [TestNG] Running:
+  C:\hybrid_automation_project\OpenCartV121\src\test\java\testCases\grouping.xml
+
+2026-05-22 17:33:45 INFO  TC001_AccountRegistrationPage:18 - -----Starting TC001_AccountRegistartionPage-----
+2026-05-22 17:33:45 INFO  TC001_AccountRegistrationPage:24 - Clicked on MyAccount Link
+2026-05-22 17:33:46 INFO  TC001_AccountRegistrationPage:27 - Clicked on Register Link
+2026-05-22 17:33:46 INFO  TC001_AccountRegistrationPage:32 - Providing Customer Details
+2026-05-22 17:33:47 INFO  TC001_AccountRegistrationPage:47 - Validating Excepted Message
+2026-05-22 17:33:48 INFO  TC001_AccountRegistrationPage:58 - -----Test Finished-----
+2026-05-22 17:33:55 INFO  TC002_LoginPage:16 - -----Account login Started-----
+2026-05-22 17:33:56 INFO  TC002_LoginPage:24 - Clicked on MyAccount Link
+2026-05-22 17:33:56 INFO  TC002_LoginPage:27 - Clicked on Log in  Link
+2026-05-22 17:33:56 INFO  TC002_LoginPage:34 - Login attempted with email: testuser2004@gmail.com
+2026-05-22 17:33:56 INFO  TC002_LoginPage:38 - Password used: test@1234
