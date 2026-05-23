@@ -147,3 +147,32 @@
 2026-05-23 15:23:53 INFO  TC002_LoginPage:34 - Login attempted with email: testuser2004@gmail.com
 2026-05-23 15:23:53 INFO  TC002_LoginPage:38 - Password used: test@123
 2026-05-23 15:23:55 INFO  TC002_LoginPage:53 - ----Login Page Finished----
+2026-05-23 20:28:12 INFO  Utils:112 - [TestNG] Running:
+  C:\QEA Testing\OpenCart_Testing\grid-docker.xml
+
+2026-05-23 20:28:15 INFO  TC001_AccountRegistrationPage:18 - -----Starting TC001_AccountRegistartionPage-----
+2026-05-23 20:28:15 INFO  TC001_AccountRegistrationPage:24 - Clicked on MyAccount Link
+2026-05-23 20:28:15 INFO  TC001_AccountRegistrationPage:27 - Clicked on Register Link
+2026-05-23 20:28:15 INFO  TC001_AccountRegistrationPage:32 - Providing Customer Details
+2026-05-23 20:28:16 INFO  TC001_AccountRegistrationPage:47 - Validating Excepted Message
+2026-05-23 20:28:16 INFO  TC001_AccountRegistrationPage:58 - -----Test Finished-----
+2026-05-23 20:28:17 INFO  TC002_LoginPage:16 - -----Account login Started-----
+2026-05-23 20:28:18 INFO  TC002_LoginPage:24 - Clicked on MyAccount Link
+2026-05-23 20:28:18 INFO  TC002_LoginPage:27 - Clicked on Log in  Link
+2026-05-23 20:28:18 INFO  TC002_LoginPage:34 - Login attempted with email: testuser2004@gmail.com
+2026-05-23 20:28:18 INFO  TC002_LoginPage:38 - Password used: test@123
+2026-05-23 20:28:19 INFO  TC002_LoginPage:53 - ----Login Page Finished----
+2026-05-23 20:29:18 INFO  Utils:112 - [TestNG] Running:
+  C:\QEA Testing\OpenCart_Testing\grid-docker.xml
+
+2026-05-23 20:29:20 INFO  TC001_AccountRegistrationPage:18 - -----Starting TC001_AccountRegistartionPage-----
+2026-05-23 20:29:20 INFO  TC001_AccountRegistrationPage:24 - Clicked on MyAccount Link
+2026-05-23 20:29:20 INFO  TC001_AccountRegistrationPage:27 - Clicked on Register Link
+2026-05-23 20:29:20 INFO  TC001_AccountRegistrationPage:32 - Providing Customer Details
+2026-05-23 20:29:21 INFO  TC001_AccountRegistrationPage:47 - Validating Excepted Message
+2026-05-23 20:29:22 INFO  TC002_LoginPage:16 - -----Account login Started-----
+2026-05-23 20:29:23 INFO  TC002_LoginPage:24 - Clicked on MyAccount Link
+2026-05-23 20:29:23 INFO  TC002_LoginPage:27 - Clicked on Log in  Link
+2026-05-23 20:29:23 INFO  TC002_LoginPage:34 - Login attempted with email: testuser2004@gmail.com
+2026-05-23 20:29:23 INFO  TC002_LoginPage:38 - Password used: test@123
+2026-05-23 20:29:24 INFO  TC002_LoginPage:53 - ----Login Page Finished----
